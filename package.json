@@ -1,0 +1,28 @@
+{
+  "name": "ayn",
+  "version": "0.0.1",
+  "description": "by efe.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "ark.db": "^2.4.6",
+    "cron": "^1.8.2",
+    "discord.js": "^12.5.1",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^5.11.14",
+    "@discordjs/opus": "^0.7.0",
+    "ffmpeg": "^0.0.4",
+    "os": "^0.1.2"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
